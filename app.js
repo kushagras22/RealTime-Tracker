@@ -27,7 +27,7 @@ app.get("/", (req, res) => {
 app.set("view engine", "ejs");
 app.use(express.static(path.join(__dirname, "public")));
 
-// P
+// Port Location
 server.listen(8001, () => {
   console.log("Server listening on port 8001");
 });
