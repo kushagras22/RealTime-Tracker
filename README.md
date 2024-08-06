@@ -37,7 +37,7 @@ A real-time tracking application built using Node.js, Express, and Socket.IO, al
 ```
 The server will start on "http://localhost:8001".
 
-### 3. Access the Application:
+### 4. Access the Application:
 
 Open your web browser and go to "http://localhost:8001" to see the real-time tracker in action.
 ## Project Structure
