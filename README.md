@@ -42,13 +42,13 @@ The server will start on "http://localhost:8001".
 Open your web browser and go to "http://localhost:8001" to see the real-time tracker in action.
 ## Project Structure
 
-/project-directory
-- /public              (Static files (CSS, JS, images))
--  /views              (EJS templates for rendering HTML)
-- index.ejs             (Main template file)
--  app.js                (Main server file)
--  package.json         (Project metadata and dependencies)
--  README.md            (Project documentation)
+Project-Directory
+- public               (Static files (CSS, JS, images))
+- views                (EJS templates for rendering HTML)
+- index.ejs            (Main template file)
+- app.js               (Main server file)
+- package.json         (Project metadata and dependencies)
+- README.md            (Project documentation)
 
 ## Usage / Examples
 
